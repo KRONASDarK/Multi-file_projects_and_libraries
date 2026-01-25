@@ -1,0 +1,22 @@
+﻿  main.cpp
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(19,27): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(29,27): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(39,27): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(49,27): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(59,27): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(34,1): warning C4715: Sub: значение возвращается не при всех путях выполнения
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(24,1): warning C4715: Sum: значение возвращается не при всех путях выполнения
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(64,1): warning C4715: Degree: значение возвращается не при всех путях выполнения
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(44,1): warning C4715: Div: значение возвращается не при всех путях выполнения
+E:\ProjectsVS\Project_Multi-file_projects_and_libraries\Functions.h(54,1): warning C4715: Multi: значение возвращается не при всех путях выполнения
+  Project_Multi-file_projects_and_libraries.vcxproj -> E:\ProjectsVS\Project_Multi-file_projects_and_libraries\x64\Debug\Project_Multi-file_projects_and_libraries.exe

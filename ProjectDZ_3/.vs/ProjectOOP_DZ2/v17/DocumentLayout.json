@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ProjectsVS\\ProjectOOP_DZ2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\EquilateralTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:EquilateralTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Quadrilateral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Quadrilateral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Quadrilateral.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Quadrilateral.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\IsoscelesTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:IsoscelesTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\RightTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:RightTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Figure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\ProjectsVS\\ProjectOOP_DZ2\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T13:00:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utils.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T13:00:13.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rhombus.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rhombus.cpp",
+              "RelativeDocumentMoniker": "Rhombus.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rhombus.cpp",
+              "RelativeToolTip": "Rhombus.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:59:24.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rhombus.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rhombus.h",
+              "RelativeDocumentMoniker": "Rhombus.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rhombus.h",
+              "RelativeToolTip": "Rhombus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:43:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parallelogram.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Parallelogram.cpp",
+              "RelativeDocumentMoniker": "Parallelogram.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Parallelogram.cpp",
+              "RelativeToolTip": "Parallelogram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:42:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parallelogram.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Parallelogram.h",
+              "RelativeDocumentMoniker": "Parallelogram.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Parallelogram.h",
+              "RelativeToolTip": "Parallelogram.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:42:14.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Square.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Square.cpp",
+              "RelativeDocumentMoniker": "Square.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Square.cpp",
+              "RelativeToolTip": "Square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:41:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Square.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Square.h",
+              "RelativeDocumentMoniker": "Square.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Square.h",
+              "RelativeToolTip": "Square.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:41:13.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "Rectangle.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rectangle.cpp",
+              "RelativeToolTip": "Rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:40:42.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Rectangle.h",
+              "RelativeToolTip": "Rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:40:09.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Quadrilateral.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Quadrilateral.cpp",
+              "RelativeDocumentMoniker": "Quadrilateral.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Quadrilateral.cpp",
+              "RelativeToolTip": "Quadrilateral.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:39:26.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Quadrilateral.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Quadrilateral.h",
+              "RelativeDocumentMoniker": "Quadrilateral.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Quadrilateral.h",
+              "RelativeToolTip": "Quadrilateral.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:38:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquilateralTriangle.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\EquilateralTriangle.cpp",
+              "RelativeDocumentMoniker": "EquilateralTriangle.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\EquilateralTriangle.cpp",
+              "RelativeToolTip": "EquilateralTriangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:37:38.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EquilateralTriangle.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\EquilateralTriangle.h",
+              "RelativeDocumentMoniker": "EquilateralTriangle.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\EquilateralTriangle.h",
+              "RelativeToolTip": "EquilateralTriangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:35:50.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IsoscelesTriangle.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\IsoscelesTriangle.cpp",
+              "RelativeDocumentMoniker": "IsoscelesTriangle.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\IsoscelesTriangle.cpp",
+              "RelativeToolTip": "IsoscelesTriangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:35:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IsoscelesTriangle.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\IsoscelesTriangle.h",
+              "RelativeDocumentMoniker": "IsoscelesTriangle.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\IsoscelesTriangle.h",
+              "RelativeToolTip": "IsoscelesTriangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:34:40.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RightTriangle.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\RightTriangle.cpp",
+              "RelativeDocumentMoniker": "RightTriangle.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\RightTriangle.cpp",
+              "RelativeToolTip": "RightTriangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:34:06.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RightTriangle.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\RightTriangle.h",
+              "RelativeDocumentMoniker": "RightTriangle.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\RightTriangle.h",
+              "RelativeToolTip": "RightTriangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:32:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Triangle.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Triangle.cpp",
+              "RelativeToolTip": "Triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T12:32:19.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Triangle.h",
+              "RelativeDocumentMoniker": "Triangle.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Triangle.h",
+              "RelativeToolTip": "Triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:31:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Figure.h",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Figure.h",
+              "RelativeDocumentMoniker": "Figure.h",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\Figure.h",
+              "RelativeToolTip": "Figure.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T12:30:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\ProjectsVS\\ProjectOOP_DZ2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\ProjectsVS\\ProjectOOP_DZ2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-19T11:48:47.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

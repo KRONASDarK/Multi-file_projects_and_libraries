@@ -1,4 +1,4 @@
-#include "Triangle.h"
+п»ї#include "Triangle.h"
 #include <string>
 
 Triangle::Triangle(int _a, int _b, int _c, int _A, int _B, int _C) :
@@ -6,7 +6,7 @@ Triangle::Triangle(int _a, int _b, int _c, int _A, int _B, int _C) :
 }
 
 std::string Triangle::getName() const {
-    return "Треугольник";
+    return "РўСЂРµСѓРіРѕР»СЊРЅРёРє";
 }
 
 std::string Triangle::getSidesInfo() const {

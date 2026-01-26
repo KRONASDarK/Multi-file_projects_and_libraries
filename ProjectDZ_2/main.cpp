@@ -29,7 +29,7 @@ int main() {
 
 			if (input == 'x') {
 				std::cout << "До свилания!" << std::endl;
-				exit(0);
+				break;
 			}
 			counter.command(input, counter);
 		} else if (enter == "n") {

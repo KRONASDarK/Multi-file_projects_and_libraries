@@ -1,8 +1,8 @@
-#include "Utils.h"
+ï»¿#include "Utils.h"
 #include <iostream>
 
 void printInfo(const Figure* fig) {
     std::cout << fig->getName() << ":" << std::endl;
-    std::cout << "Ñòîðîíû: " << fig->getSidesInfo() << std::endl;
-    std::cout << "Óãëû: " << fig->getAnglesInfo() << std::endl << std::endl;
+    std::cout << "Ð¡Ñ‚Ð¾Ñ€Ð¾Ð½Ñ‹: " << fig->getSidesInfo() << std::endl;
+    std::cout << "Ð£Ð³Ð»Ñ‹: " << fig->getAnglesInfo() << std::endl << std::endl;
 }

@@ -1,4 +1,4 @@
-#include "Triangle.h"
+п»ї#include "Triangle.h"
 #include "RightTriangle.h"
 #include "IsoscelesTriangle.h"
 #include "EquilateralTriangle.h"
@@ -23,16 +23,16 @@ int main() {
     Parallelogram p(20, 30, 30, 40);
     Rhombus rm(30, 30, 40);
 
-    printInfo(&t);      // Обычный треугольник
-    printInfo(&rt);     // Прямоугольный треугольник
-    printInfo(&it);     // Равнобедренный треугольник
-    printInfo(&et);     // Равносторонний треугольник
+    printInfo(&t);      // РћР±С‹С‡РЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє
+    printInfo(&rt);     // РџСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє
+    printInfo(&it);     // Р Р°РІРЅРѕР±РµРґСЂРµРЅРЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє
+    printInfo(&et);     // Р Р°РІРЅРѕСЃС‚РѕСЂРѕРЅРЅРёР№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє
 
-    printInfo(&q);      // Четырехугольник
-    printInfo(&r);      // Прямоугольник
-    printInfo(&s);      // Квадрат
-    printInfo(&p);      // Параллелограмм
-    printInfo(&rm);     // Ромб
+    printInfo(&q);      // Р§РµС‚С‹СЂРµС…СѓРіРѕР»СЊРЅРёРє
+    printInfo(&r);      // РџСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє
+    printInfo(&s);      // РљРІР°РґСЂР°С‚
+    printInfo(&p);      // РџР°СЂР°Р»Р»РµР»РѕРіСЂР°РјРј
+    printInfo(&rm);     // Р РѕРјР±
 
     return 0;
 }

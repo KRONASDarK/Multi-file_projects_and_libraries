@@ -1,6 +1,5 @@
 ﻿  EquilateralTriangle.cpp
   IsoscelesTriangle.cpp
-  main.cpp
   Parallelogram.cpp
   Quadrilateral.cpp
   Rectangle.cpp
@@ -9,8 +8,9 @@
   Square.cpp
   Triangle.cpp
   Utils.cpp
+  main.cpp
   Создание кода
-  Previous IPDB not found, fall back to full compilation.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
   All 166 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Создание кода завершено
   ProjectOOP_DZ2.vcxproj -> E:\Учёба\С++\C++, Многофайловые проекты и библиотеки\ProjectDZ_3\x64\Release\ProjectOOP_DZ2.exe

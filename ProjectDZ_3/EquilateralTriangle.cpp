@@ -1,9 +1,9 @@
-#include "EquilateralTriangle.h"
+п»ї#include "EquilateralTriangle.h"
 
 EquilateralTriangle::EquilateralTriangle(int sideLength) :
     Triangle(sideLength, sideLength, sideLength, 60, 60, 60) {
 }
 
 std::string EquilateralTriangle::getName() const {
-    return "Равносторонний треугольник";
+    return "Р Р°РІРЅРѕСЃС‚РѕСЂРѕРЅРЅРёР№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє";
 }

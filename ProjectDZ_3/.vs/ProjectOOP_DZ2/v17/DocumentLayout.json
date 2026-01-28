@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Triangle.cpp||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Quadrilateral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Quadrilateral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Triangle.cpp||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,60 +59,28 @@
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:EquilateralTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rhombus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rhombus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Parallelogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Parallelogram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Square.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Quadrilateral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Quadrilateral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:EquilateralTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Quadrilateral.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:Quadrilateral.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:IsoscelesTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\IsoscelesTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:IsoscelesTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|solutionrelative:RightTriangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F7B17B4-8AD3-45FD-B945-2DDBCA9334E3}|ProjectOOP_DZ2.vcxproj|E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\RightTriangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -98,24 +102,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Triangle.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp",
               "RelativeDocumentMoniker": "Triangle.cpp",
               "ToolTip": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp",
               "RelativeToolTip": "Triangle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T09:48:09.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Triangle.cpp",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp",
+              "RelativeDocumentMoniker": "Triangle.cpp",
+              "ToolTip": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.cpp",
+              "RelativeToolTip": "Triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-26T08:58:46.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Utils.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Utils.cpp",
               "RelativeDocumentMoniker": "Utils.cpp",
@@ -123,11 +140,12 @@
               "RelativeToolTip": "Utils.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T13:00:57.062Z"
+              "WhenOpened": "2026-01-25T13:00:57.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Utils.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Utils.h",
               "RelativeDocumentMoniker": "Utils.h",
@@ -139,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Rhombus.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rhombus.cpp",
               "RelativeDocumentMoniker": "Rhombus.cpp",
@@ -147,11 +165,12 @@
               "RelativeToolTip": "Rhombus.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:59:24.966Z"
+              "WhenOpened": "2026-01-25T12:59:24.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Rhombus.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rhombus.h",
               "RelativeDocumentMoniker": "Rhombus.h",
@@ -163,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Parallelogram.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Parallelogram.cpp",
               "RelativeDocumentMoniker": "Parallelogram.cpp",
@@ -171,11 +190,12 @@
               "RelativeToolTip": "Parallelogram.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:42:47.398Z"
+              "WhenOpened": "2026-01-25T12:42:47.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Parallelogram.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Parallelogram.h",
               "RelativeDocumentMoniker": "Parallelogram.h",
@@ -187,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Square.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Square.cpp",
               "RelativeDocumentMoniker": "Square.cpp",
@@ -195,11 +215,12 @@
               "RelativeToolTip": "Square.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:41:45.929Z"
+              "WhenOpened": "2026-01-25T12:41:45.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Square.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Square.h",
               "RelativeDocumentMoniker": "Square.h",
@@ -211,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Rectangle.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rectangle.cpp",
               "RelativeDocumentMoniker": "Rectangle.cpp",
@@ -219,11 +240,12 @@
               "RelativeToolTip": "Rectangle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:40:42.574Z"
+              "WhenOpened": "2026-01-25T12:40:42.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Rectangle.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Rectangle.h",
               "RelativeDocumentMoniker": "Rectangle.h",
@@ -235,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Quadrilateral.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Quadrilateral.cpp",
               "RelativeDocumentMoniker": "Quadrilateral.cpp",
@@ -243,11 +265,12 @@
               "RelativeToolTip": "Quadrilateral.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:39:26.062Z"
+              "WhenOpened": "2026-01-25T12:39:26.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Quadrilateral.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Quadrilateral.h",
               "RelativeDocumentMoniker": "Quadrilateral.h",
@@ -259,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "EquilateralTriangle.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\EquilateralTriangle.cpp",
               "RelativeDocumentMoniker": "EquilateralTriangle.cpp",
@@ -267,11 +290,12 @@
               "RelativeToolTip": "EquilateralTriangle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:37:38.238Z"
+              "WhenOpened": "2026-01-25T12:37:38.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "EquilateralTriangle.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\EquilateralTriangle.h",
               "RelativeDocumentMoniker": "EquilateralTriangle.h",
@@ -283,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "IsoscelesTriangle.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\IsoscelesTriangle.cpp",
               "RelativeDocumentMoniker": "IsoscelesTriangle.cpp",
@@ -291,11 +315,12 @@
               "RelativeToolTip": "IsoscelesTriangle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:35:19.351Z"
+              "WhenOpened": "2026-01-25T12:35:19.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IsoscelesTriangle.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\IsoscelesTriangle.h",
               "RelativeDocumentMoniker": "IsoscelesTriangle.h",
@@ -307,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "RightTriangle.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\RightTriangle.cpp",
               "RelativeDocumentMoniker": "RightTriangle.cpp",
@@ -315,11 +340,12 @@
               "RelativeToolTip": "RightTriangle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-25T12:34:06.36Z"
+              "WhenOpened": "2026-01-25T12:34:06.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RightTriangle.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\RightTriangle.h",
               "RelativeDocumentMoniker": "RightTriangle.h",
@@ -331,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Triangle.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Triangle.h",
               "RelativeDocumentMoniker": "Triangle.h",
@@ -343,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Figure.h",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\Figure.h",
               "RelativeDocumentMoniker": "Figure.h",
@@ -355,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "E:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u002B\u002B\\C\u002B\u002B, \u041C\u043D\u043E\u0433\u043E\u0444\u0430\u0439\u043B\u043E\u0432\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0438 \u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\ProjectDZ_3\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",

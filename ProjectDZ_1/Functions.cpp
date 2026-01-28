@@ -1,5 +1,6 @@
 ﻿#include "Functions.h"
 #include <cstdlib>
+#include <iostream>
 
 // Реализация Enter()
 void Enter(float& x, float& y) {
@@ -24,15 +25,11 @@ float Sub(float x, float y) {
 
 // Реализация Div()
 float Div(float x, float y) {
-    if (x && y != 0) {
-        float result = x / y;
-        return result;
+    if (y == 0) {
+        std::cerr << "Ошибка: делить на ноль нельзя.\n";
+        return 0;
     }
-    else
-    {
-        std::cout << "Делитель не должен быть равен нулю!";
-        exit(0);
-    }
+    return x / y;
 }
 
 // Реализация Multi()
@@ -49,13 +46,13 @@ float Degree(float x, float y) {
 
 // Реализация PrintInfo()
 void PrintInfo(float x, float y) {
-    int p = 0;
+    int choice = 0;
     std::cout << "Выберите операцию (1 - сложение, 2 - вычитание, 3 - умножение, 4 - деление, 5 - возведение в степень): ";
-    std::cin >> p;
+    std::cin >> choice;
 
-    switch (p) {
+    switch (choice) {
     case 1:
-        std::cout << x << " + " << y << " = " << Sum(x, y) << "\n";
+        std::cout << x << " + " << y << " = " << Sum(x, y) << "\\n";
         break;
     case 2:
         std::cout << x << " - " << y << " = " << Sub(x, y) << "\n";
@@ -64,12 +61,17 @@ void PrintInfo(float x, float y) {
         std::cout << x << " × " << y << " = " << Multi(x, y) << "\n";
         break;
     case 4:
-        std::cout << x << " ÷ " << y << " = " << Div(x, y) << "\n";
-        break;
+        if (Div(x, y) == 0) {
+            break;
+        }
+        else {
+            std::cout << x << " ÷ " << y << " = " << Div(x, y) << "\n"; // Деление выполняется в отдельной функции
+            break;
+        }
     case 5:
         std::cout << x << " в степени " << y << " = " << Degree(x, y) << "\n";
         break;
     default:
-        std::cout << p << " неверный номер операции!\n";
+        std::cout << choice << " - неверный номер операции!\n";
     }
 }

@@ -1,4 +1,4 @@
-#include "Quadrilateral.h"
+ï»¿#include "Quadrilateral.h"
 #include <string>
 
 Quadrilateral::Quadrilateral(int _a, int _b, int _c, int _d, int _A, int _B, int _C, int _D) :
@@ -6,7 +6,7 @@ Quadrilateral::Quadrilateral(int _a, int _b, int _c, int _d, int _A, int _B, int
 }
 
 std::string Quadrilateral::getName() const {
-    return "×åòûğ¸õóãîëüíèê";
+    return "Ğ§ĞµÑ‚Ñ‹Ñ€Ñ‘Ñ…ÑƒĞ³Ğ¾Ğ»ÑŒĞ½Ğ¸Ğº";
 }
 
 std::string Quadrilateral::getSidesInfo() const {
